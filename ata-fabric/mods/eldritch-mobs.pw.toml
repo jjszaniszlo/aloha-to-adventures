@@ -1,6 +1,6 @@
 name = "Eldritch Mobs"
 filename = "eldritch-mobs-1.15.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/emXFPmJd/versions/1UqTBkHo/eldritch-mobs-1.15.2.jar"

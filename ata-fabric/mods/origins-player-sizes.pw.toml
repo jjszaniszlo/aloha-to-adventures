@@ -1,6 +1,6 @@
 name = "Origins Player Sizes"
 filename = "origins-sizes1.2-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/b87QjdBO/versions/3QVuAvfD/origins-sizes1.2-1.20.1.jar"
