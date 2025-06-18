@@ -9,12 +9,6 @@
     },
     "origins_vampire:vampire_lord": {
       "origins_vampire:flight/wing_flap": false
-    },
-    "ea:water_shulk": {
-      "ea:water_charges": false
-    },
-    "ea:fire_shulk": {
-      "ea:fire_charges": false
     }
   }
 }

@@ -1,0 +1,21 @@
+{
+	"name": "Water Enderian",
+	"description": "What, an enderman who likes water?",
+	"powers": [
+		"orbasb:throw_ender_pearl",
+		"orbasb:vwoop",
+		"ea:flammable",
+		"ea:nether_weakness",
+		"ea:not_fins",
+		"origins:pumpkin_hate",
+		"origins:extra_reach",
+		"origins:ender_particles"
+	],
+	"icon": {
+		"item": "minecraft:ender_pearl"
+	},
+	"order": 2,
+	"impact": 2,
+	"loading_priority": 9,
+	"unchoosable": true
+}
