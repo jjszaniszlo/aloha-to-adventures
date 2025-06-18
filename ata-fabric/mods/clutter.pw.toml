@@ -1,0 +1,13 @@
+name = "Clutter"
+filename = "clutter-1.20-0.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZAmykow/versions/P3dqmdk9/clutter-1.20-0.6.1.jar"
+hash-format = "sha512"
+hash = "e25fa2185609af71f17bc29a312c4829944440beb687d24495f6399e9711b6533c0c4a70f9e2982e4b262e7ad45822c77ab0f8d9880cfd79b3345ccc7105644a"
+
+[update]
+[update.modrinth]
+mod-id = "KZAmykow"
+version = "P3dqmdk9"

@@ -1,0 +1,13 @@
+name = "Origins Player Sizes"
+filename = "origins-sizes1.2-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/b87QjdBO/versions/3QVuAvfD/origins-sizes1.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "effef85faad034d27b74f3b1288ba0681b1455d858c31e204c770457482ffe3ce85282d00e8dcb330201bf1b73cfbad4061c7412a778745a218636113abe3317"
+
+[update]
+[update.modrinth]
+mod-id = "b87QjdBO"
+version = "3QVuAvfD"

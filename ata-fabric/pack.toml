@@ -1,0 +1,13 @@
+name = "aloha-to-adventures"
+author = "jjszaniszlo"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "237a72a0b01ff539b43d5a2e811ea4d49649acfbf16fbd6660d5e940006cccf0"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.20.1"

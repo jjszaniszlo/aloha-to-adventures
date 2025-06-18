@@ -1,0 +1,20 @@
+{
+  "performVersionCheck": false,
+  "origins": {
+    "ea:earth_blazeborn": {
+      "ea:explosive_miner": false,
+      "ea:explosive_miner_toggle": false,
+      "ea:explosive_miner_toggle_toggle": false,
+      "ea:explosion_immunity": false
+    },
+    "origins_vampire:vampire_lord": {
+      "origins_vampire:flight/wing_flap": false
+    },
+    "ea:water_shulk": {
+      "ea:water_charges": false
+    },
+    "ea:fire_shulk": {
+      "ea:fire_charges": false
+    }
+  }
+}

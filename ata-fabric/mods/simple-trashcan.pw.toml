@@ -1,0 +1,13 @@
+name = "Simple Trashcan"
+filename = "SimpleTrashcan-fabric-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PYDuhTvE/versions/PadK0REI/SimpleTrashcan-fabric-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "8901a81e7efeddc087377dab0d360e710b37cdd6e879348bf7c315a263f09e9fe40559dc1ee025f3804285800ef2054b203fc312d24d69f2bd5e90f48b04ca2d"
+
+[update]
+[update.modrinth]
+mod-id = "PYDuhTvE"
+version = "PadK0REI"

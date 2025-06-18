@@ -1,0 +1,13 @@
+name = "Origins: Elemental Alignment"
+filename = "Elemental_Alignment_1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZTI02mpA/versions/XHEOfu1q/Elemental_Alignment_1.1.5.jar"
+hash-format = "sha512"
+hash = "abba20d4fafd36a2f1a8f17bb9607b130f0b0ed1fdd8f581f9bdf2ed58d6c37e3d4bbffaeb8e8e3099be5aadbc686b0f413cc9452d01ea21038960a8ab5ff1f0"
+
+[update]
+[update.modrinth]
+mod-id = "ZTI02mpA"
+version = "XHEOfu1q"

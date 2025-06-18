@@ -1,0 +1,12 @@
+{
+	"invulnerable_ticks_upon_roll": 5,
+	"roll_duration": 8,
+	"allow_auto_jump_while_rolling": true,
+	"allow_jump_while_rolling": true,
+	"allow_rolling_while_weapon_cooldown": true,
+	"allow_rolling_while_airborn": true,
+	"exhaust_on_roll": 1.2,
+	"food_level_required": 12.0,
+	"roll_cooldown": 0.2,
+	"additional_roll_distance": -1.0
+}

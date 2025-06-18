@@ -1,0 +1,13 @@
+name = "Abstract"
+filename = "abstractmod-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sV3VgIBV/versions/8T0l0QkL/abstractmod-1.0.0.jar"
+hash-format = "sha512"
+hash = "92d99f5d87d2520ef5952fa490a680fc2c6fcefa30426a9f402721e8c40d63d63554880319088d557b66043532213d7a80a09ffbb67a30410db28362f0f304a5"
+
+[update]
+[update.modrinth]
+mod-id = "sV3VgIBV"
+version = "8T0l0QkL"

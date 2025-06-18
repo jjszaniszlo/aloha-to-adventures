@@ -1,0 +1,13 @@
+name = "Eldritch Mobs Modifications"
+filename = "eldritch-mobs-modifications-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vnovfz3R/versions/3hGCJfmr/eldritch-mobs-modifications-1.2.0.jar"
+hash-format = "sha512"
+hash = "a4f3e8f6a4b6075e9d5ba53e13ed39c75672135b98a00f5f92ea61b1f1f137702a110d8abd11210c25052c3b09bfd3c9fbb358fdf183834638015cd2fae5986b"
+
+[update]
+[update.modrinth]
+mod-id = "Vnovfz3R"
+version = "3hGCJfmr"

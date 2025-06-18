@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "name": "Origins Config",
+        "id": "orbasb",
+        "pack_format": 10,
+        "authors": [
+            "jjszaniszlo"
+        ],
+        "description": "Origins Balancing for Aloha Snack Bar S3!"
+    }
+}
