@@ -74,7 +74,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "fd0cedd3f8c3db900216d63c64ae808415f9c9fd1a20282f6796f185a707ee8c"
+hash = "902d70dddbf8cfb18eca0ce1b0b31a341b18b2f4876f32d93e42fa2010a3e0c7"
 
 [[files]]
 file = "config/yosbr/config/midnightcontrols.json"
@@ -98,19 +98,51 @@ hash = "b2ff60a305956fb2a381c6c61d960d2b220d83d9c7737e2ac4ab34a1f604af56"
 
 [[files]]
 file = "config/yosbr/config/origins_server.json"
-hash = "c5c67e4ba89f8a2c66cff2188bb5aa7a4d77f7fd6730571476d237f18b057c91"
+hash = "7e75ca9275c2f28a83bea1aadddc3376b87657804c4c965858dd6708bab02e5b"
+
+[[files]]
+file = "config/yosbr/config/paxi/datapacks/origins-config/data/ea/origins/earth_enderian.json"
+hash = "b8e1e12bd259f2a71a9ed5de3168671bcf011c1c56c28722a615b9059c59ad67"
+
+[[files]]
+file = "config/yosbr/config/paxi/datapacks/origins-config/data/ea/origins/fire_enderian.json"
+hash = "2a80bef6e3fbe3bec40a38ce99a1c96bf24870ebf8bf4736f7a27a167492e2b6"
+
+[[files]]
+file = "config/yosbr/config/paxi/datapacks/origins-config/data/ea/origins/fire_shulk.json"
+hash = "041277219bcf6d07b469f731766438e42995babbf97fa801ceb9f22d8a51a705"
+
+[[files]]
+file = "config/yosbr/config/paxi/datapacks/origins-config/data/ea/origins/water_enderian.json"
+hash = "f2c5edb55fc6d1575d92759db2e7a9a51c4f06fb9c19025eb87897dab51a6480"
+
+[[files]]
+file = "config/yosbr/config/paxi/datapacks/origins-config/data/ea/origins/water_shulk.json"
+hash = "b7b607ec632a357a9d33873e7e72e5e8346aa2bc3f7fc9df84e59392f8f32be9"
+
+[[files]]
+file = "config/yosbr/config/paxi/datapacks/origins-config/data/ea/origins/wind_enderian.json"
+hash = "058eb604fd40d1d060499919ba2617b3b10361950b225c12126997e32354b106"
+
+[[files]]
+file = "config/yosbr/config/paxi/datapacks/origins-config/data/orbasb/powers/fire_absorption.json"
+hash = "96217bfcbf7210bc6c3bc6fb2843bf9e04b88ebb8375ceb72bcd05996c847bf5"
 
 [[files]]
 file = "config/yosbr/config/paxi/datapacks/origins-config/data/orbasb/powers/throw_ender_pearl.json"
-hash = "a126ffd96039106ec4789cef2c06734eef3f2b389a8e1379538f611646af2f00"
+hash = "f3b2378f69eeca80d0708112b9b18c803e794972dee2e0aebcbe125553c56d1b"
 
 [[files]]
 file = "config/yosbr/config/paxi/datapacks/origins-config/data/orbasb/powers/vwoop.json"
-hash = "55ed31b061713684d10e909e048a321a417905bb83e9372e4a27ef0151aca878"
+hash = "5702bb0ce571abb2ed2fb19d93914f30f10418984467653b750662fe07571a27"
+
+[[files]]
+file = "config/yosbr/config/paxi/datapacks/origins-config/data/orbasb/powers/water_absorption.json"
+hash = "7f8a37bcc2c6509b54dbdba2086a0061eada88000c836f51bd0c09ff18347ca5"
 
 [[files]]
 file = "config/yosbr/config/paxi/datapacks/origins-config/data/origins/origins/enderian.json"
-hash = "8f008bec2884d9603728f6d0c248db6920f657962b10777d46eb4c3bb0977442"
+hash = "d42fc8845ef1adabe7d0bdeed716773a7e14fff7e2a5a47a2b2ac2f56b9deef4"
 
 [[files]]
 file = "config/yosbr/config/paxi/datapacks/origins-config/pack.mcmeta"

@@ -1,0 +1,71 @@
+{
+	"name": "Water Absorption",
+	"description": "Your body can store water and release it later",
+	"type": "origins:multiple",
+	"store": {
+		"condition": {
+			"type": "origins:fluid_height",
+			"fluid": "minecraft:water",
+			"comparison": ">",
+			"compare_to": 0
+		},
+		"type": "origins:action_over_time",
+		"interval": 100,
+		"entity_action": {
+			"type": "origins:change_resource",
+			"resource": "ea:water_charges",
+			"change": 1,
+			"operation": "add"
+		}
+	},
+	"release": {
+		"condition": {
+			"type": "origins:resource",
+			"resource": "ea:water_charges",
+			"comparison": ">=",
+			"compare_to": 1
+		},
+		"type": "origins:active_self",
+		"entity_action": {
+			"type": "origins:raycast",
+			"distance": 15,
+			"block": true,
+			"entity": true,
+			"shape_type": "outline",
+			"fluid_handling": "none",
+			"bientity_action": {
+				"type": "origins:and",
+				"actions": [
+					{
+						"type": "origins:target_action",
+						"action": {
+							"type": "origins:damage",
+							"amount": 4,
+							"damage_type": "minecraft:drown"
+						}
+					}
+				]
+			},
+			"before_action": {
+				"type": "origins:and",
+				"actions": [
+					{
+						"type": "origins:change_resource",
+						"resource": "ea:water_charges",
+						"change": -1,
+						"operation": "add"
+					},
+					{
+						"type": "origins:execute_command",
+						"command": "playsound minecraft:entity.generic.swim ambient @a[distance=..5] ~ ~ ~ 1 1"
+					}
+				]
+			},
+			"command_along_ray": "function ea:water_blast"
+		},
+		"cooldown": 20,
+		"key": {
+			"key": "key.origins.secondary_active"
+		}
+	}
+}
