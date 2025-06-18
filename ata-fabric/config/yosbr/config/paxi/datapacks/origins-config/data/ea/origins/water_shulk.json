@@ -1,0 +1,24 @@
+{
+	"name": "Water Shulk",
+	"description": "The water shulk has evolved to store water for later use, unfontunatly that means they are very weak to fire.",
+	"powers": [
+		"ea:flammable",
+		"ea:more_air",
+		"ea:heat_weakness",
+		"ea:water_charges",
+		"orbasb:water_absorption",
+		"origins:shulker_inventory",
+		"origins:natural_armor",
+		"origins:strong_arms",
+		"origins:strong_arms_break_speed",
+		"origins:no_shield",
+		"origins:more_exhaustion"
+	],
+	"icon": {
+		"item": "minecraft:shulker_shell"
+	},
+	"order": 2,
+	"impact": 1,
+	"loading_priority": 9,
+	"unchoosable": true
+}

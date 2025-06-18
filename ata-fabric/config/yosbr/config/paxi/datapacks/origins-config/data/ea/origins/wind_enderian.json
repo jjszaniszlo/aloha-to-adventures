@@ -1,0 +1,23 @@
+{
+	"name": "Wind Enderian",
+	"description": "These enderians are both scared of the dark and water. Cowards they may be, they are suprisingly deadly at range",
+	"powers": [
+		"orbasb:throw_ender_pearl",
+		"orbasb:vwoop",
+		"ea:wind_arrow",
+		"ea:scared_of_dark",
+		"origins:water_vulnerability",
+		"origins:pumpkin_hate",
+		"origins:tailwind",
+		"origins:extra_reach",
+		"origins:ender_particles",
+		"origins:damage_from_potions"
+	],
+	"icon": {
+		"item": "minecraft:ender_pearl"
+	},
+	"order": 2,
+	"impact": 2,
+	"loading_priority": 9,
+	"unchoosable": true
+}

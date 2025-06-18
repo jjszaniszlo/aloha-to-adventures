@@ -1,0 +1,23 @@
+{
+	"name": "Fire Shulk",
+	"description": "The fire shulks sturdy skin has evolved to absorb fire to store it for later use",
+	"powers": [
+		"ea:cold_blooded",
+		"ea:heavy",
+		"ea:fire_charges",
+		"orbasb:fire_absorption",
+		"origins:shulker_inventory",
+		"origins:natural_armor",
+		"origins:strong_arms",
+		"origins:strong_arms_break_speed",
+		"origins:no_shield",
+		"origins:more_exhaustion"
+	],
+	"icon": {
+		"item": "minecraft:shulker_shell"
+	},
+	"order": 2,
+	"impact": 1,
+	"loading_priority": 9,
+	"unchoosable": true
+}

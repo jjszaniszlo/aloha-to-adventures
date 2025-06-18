@@ -1,0 +1,23 @@
+{
+	"name": "Fire Enderian",
+	"description": "Living in the nether has made you immune to fire, unfortunatly, in that time, your fear of water has worsened to an unhealthy degree",
+	"powers": [
+		"orbasb:throw_ender_pearl",
+		"orbasb:vwoop",
+		"ea:warped_home",
+		"ea:extreme_hydrophobia",
+		"origins:fire_immunity",
+		"origins:pumpkin_hate",
+		"origins:extra_reach",
+		"origins:ender_particles",
+		"origins:flame_particles",
+		"origins:damage_from_potions"
+	],
+	"icon": {
+		"item": "minecraft:ender_pearl"
+	},
+	"order": 2,
+	"impact": 2,
+	"loading_priority": 9,
+	"unchoosable": true
+}

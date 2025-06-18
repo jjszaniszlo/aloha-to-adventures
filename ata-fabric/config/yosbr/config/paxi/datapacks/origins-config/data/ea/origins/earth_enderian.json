@@ -1,0 +1,26 @@
+{
+	"name": "Earth Enderian",
+	"description": "These enderians have been mining for a long time and are therefore better at it. They can even hold more blocks.",
+	"powers": [
+		"orbasb:throw_ender_pearl",
+		"orbasb:vwoop",
+		"ea:shulker_inventory",
+		"ea:end_miner",
+		"origins:water_vulnerability",
+		"origins:pumpkin_hate",
+		"origins:extra_reach",
+		"origins:strong_arms",
+		"origins:strong_arms_break_speed",
+		"origins:fragile",
+		"ea:scared_of_heights",
+		"origins:ender_particles",
+		"origins:damage_from_potions"
+	],
+	"icon": {
+		"item": "minecraft:ender_pearl"
+	},
+	"order": 2,
+	"impact": 2,
+	"loading_priority": 9,
+	"unchoosable": true
+}
