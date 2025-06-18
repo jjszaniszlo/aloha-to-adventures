@@ -2,11 +2,11 @@
     "main_menu": {
         "bottom_right": [
             {
-                "text": "Aloha Snack Bar S3",
+                "text": "Aloha to Adventure",
                 "color": "white",
                 "clickEvent": {
                     "action": "open_url",
-                    "value": "https://github.com/jjszaniszlo/aloha-to-adventures"
+                    "value": "https://github.com/jjszaniszlo/aloha-to-adventure"
                 }
             }
         ]
