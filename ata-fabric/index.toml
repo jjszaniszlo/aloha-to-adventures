@@ -17,6 +17,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "48a45c21962303d6d99ecc7440e73d7b6aec0c8795f633ab689268811843cb07"
 
 [[files]]
+file = "config/yosbr/config/bclib/client.json"
+hash = "4e521a4aaca9f56fc5dc4aba7847145e4536d1111990e04028b426cbeeec7517"
+
+[[files]]
 file = "config/yosbr/config/bclib/server.json"
 hash = "3d75a3660fc773c80b2122c41ca83043b190d3c6d7ae0f809e7659f4e65eb44a"
 
@@ -10045,6 +10049,14 @@ metafile = true
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
+
+[[files]]
+file = "scripts/origins.zs"
+hash = "2955dcf67e6d2366f49e0789421efeee699d58dce4cd428963a58ffce3c6f0c2"
+
+[[files]]
+file = "shaderpacks/Bliss-Shader-main.zip"
+hash = "35744dddaf503c11e343426f361e6a2ca3ef3889c50c58e2638f889370376cea"
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
