@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.0.1](https://github.com/jjszaniszlo/aloha-to-adventure/compare/ata-fabric-v1.0.0...ata-fabric-v1.0.1) (2025-06-18)
+
+
+### ★ Features
+
+* **ata-fabric/origins:** Enderian Pearl CD is now 15 seconds and the second ability is a vwoop! ([1eb4721](https://github.com/jjszaniszlo/aloha-to-adventure/commit/1eb47215c36943d43e6337401b005c5b7a2d90d5))
+* **ata-fabric/origins:** Reimplement fire_absorbtion for water and fire shulk to fix crashes. ([99466a5](https://github.com/jjszaniszlo/aloha-to-adventure/commit/99466a5ce08b8b09988ec77bd4f744262a647c82))
+
+
+### ☀ Modpack Changes
+
+* **ata-fabric/bliss-shaders:** Add Bliss (DH compatible) to shaders ([8422ab5](https://github.com/jjszaniszlo/aloha-to-adventure/commit/8422ab5110ab33c85e525d569898cbeb336156d2))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.0.1 ([8b3d934](https://github.com/jjszaniszlo/aloha-to-adventure/commit/8b3d934c667bd51a29d9aaabf691c8da29d51940))
+
 ## [1.0.0](https://github.com/jjszaniszlo/aloha-to-adventures/compare/ata-fabric-v1.0.0...ata-fabric-v1.0.0) (2025-06-18)
 
 
