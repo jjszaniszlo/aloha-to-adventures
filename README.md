@@ -14,7 +14,7 @@ Enjoy smooth gameplay even in massive worlds or intense battles. Key performance
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs), [Krypton](https://modrinth.com/mod/fQEb0iXm) – Memory and network optimizations.
 - [Distant Horizons](https://modrinth.com/mod/uCdwusMi) – Render far distances with ease.
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci), [ModernFix](https://modrinth.com/mod/nmDcB62a) – Modern rendering and performance fixes.
-
+- [Bliss-Shader](https://github.com/X0nk/Bliss-Shader) - A Distant Horizons compatible shaderpack with gorgeous visuals.
 ---
 
 ## 🌍 Enhanced World Generation
