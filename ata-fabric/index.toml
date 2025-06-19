@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "9c4e4c2515603025c29ce9b66eb2b38e56e209acba1576ad7c0c2f377a9c8762"
+hash = "9720ba394c44a7eb766d9e2c7687db9f51a681f98b2ddea58c80e8a1c2ddffda"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
