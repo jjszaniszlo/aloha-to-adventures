@@ -10087,12 +10087,24 @@ hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
 
 [[files]]
-file = "scripts/chainmail.zs"
-hash = "a03e5e024e6f6ad1170b20d9b15db281994246b0d4ff615409c0dec26c8192f4"
+file = "scripts/botania/recipes/cutting_board/petals.zs"
+hash = "893072018294ad89e5288033c5a32f8a0f6dc4e21f9da1619b20f0cc421306d9"
 
 [[files]]
-file = "scripts/origins.zs"
-hash = "2955dcf67e6d2366f49e0789421efeee699d58dce4cd428963a58ffce3c6f0c2"
+file = "scripts/minecraft/recipes/chainmail.zs"
+hash = "6412a6f9d180c386e7c897350cf3ce6ec0197ec8dc8045dc4bb542f3226db1ed"
+
+[[files]]
+file = "scripts/origins/recipes/origins.zs"
+hash = "5340d45725c1a66525017cf4c82f0fdbdb3d32a72b2d689b31fce2b76cf4fc65"
+
+[[files]]
+file = "scripts/simplyswords/recipes/elven_trade/smithing_mats.zs"
+hash = "a33ed19e0498275d8204040a167b5c43d716c4af610a581177f54738544285ce"
+
+[[files]]
+file = "scripts/soulsweapons/recipes/elven_trade/crafting_mats.zs"
+hash = "305a6d3f08adda452b2d2a451f60fb1af6021bae3e56e3f9a385ffdb055cd329"
 
 [[files]]
 file = "shaderpacks/Bliss-Shader-main.zip"
