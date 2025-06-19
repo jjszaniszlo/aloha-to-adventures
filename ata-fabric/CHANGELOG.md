@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/jjszaniszlo/aloha-to-adventure/compare/ata-fabric-v1.0.1...ata-fabric-v1.1.0) (2025-06-19)
+
+
+### ★ Features
+
+* **ata-fabric/Botania:** Add Farmer's Delight Cutting Board recipes for all flowers. ([d776144](https://github.com/jjszaniszlo/aloha-to-adventure/commit/d7761443184b8a34a354db3afdaaeffa1a1a9d36))
+* **ata-fabric/custom:** Add crafting recipe for chainmail armor. ([99ac5ed](https://github.com/jjszaniszlo/aloha-to-adventure/commit/99ac5ede44352b12046478f971b0ce1b662e6182))
+* **ata-fabric/Minecraft:** Add Chainmail armor crafting recipes ([8639f5c](https://github.com/jjszaniszlo/aloha-to-adventure/commit/8639f5c1110b1cc7c6b4ffe442ef6451785f2528))
+* **ata-fabric/Origins:** Tweak crafting recipe for Orb of Origins to use Pixie Dust instead of Ender Pearls ([76cc197](https://github.com/jjszaniszlo/aloha-to-adventure/commit/76cc1977b355c8196d09c6d00c17c59cb8cf2269))
+* **ata-fabric/SimplySwords:** Add Elven Trading recipes for Runic Tablet and Empowered Remnant ([1a3507d](https://github.com/jjszaniszlo/aloha-to-adventure/commit/1a3507d7b108cc7cf721f75248184dc41a0b0390))
+* **ata-fabric/SoulsWeapons:** Add Elven Trading Lord Soul's recipes ([8766133](https://github.com/jjszaniszlo/aloha-to-adventure/commit/87661330034dfbf893724d0b0503247a08eef5a9))
+
 ## [1.0.1](https://github.com/jjszaniszlo/aloha-to-adventure/compare/ata-fabric-v1.0.0...ata-fabric-v1.0.1) (2025-06-18)
 
 
