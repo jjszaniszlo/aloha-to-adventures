@@ -9488,6 +9488,11 @@ hash = "a30726b64c6922cd85d0a2d0b4946cbf1c2c5bee9d167a21ad66e27a8359b4bf"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "e19d7296a530e9489f08a72fd03bc86ead52c45cac5e84a791679a34f3bd1fd3"
 metafile = true
