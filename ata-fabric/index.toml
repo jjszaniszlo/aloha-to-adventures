@@ -10087,6 +10087,10 @@ hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
 
 [[files]]
+file = "scripts/chainmail.zs"
+hash = "a03e5e024e6f6ad1170b20d9b15db281994246b0d4ff615409c0dec26c8192f4"
+
+[[files]]
 file = "scripts/origins.zs"
 hash = "2955dcf67e6d2366f49e0789421efeee699d58dce4cd428963a58ffce3c6f0c2"
 
